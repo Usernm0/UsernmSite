@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "UsernmSite",
+    "description": "",
+    "home_page_url": "https://github.com/Usernm0/UsernmSite",
+    "feed_url": "https://github.com/Usernm0/UsernmSite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Usernm"
+    },
+    "items": [
+        {
+            "id": "https://github.com/Usernm0/UsernmSite/something.html",
+            "url": "https://github.com/Usernm0/UsernmSite/something.html",
+            "title": "something",
+            "summary": "123",
+            "content_html": "<p>123</p>",
+            "author": {
+                "name": "Usernm"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-18T13:02:39+03:00",
+            "date_modified": "2022-07-18T13:02:39+03:00"
+        }
+    ]
+}
